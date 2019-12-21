@@ -1,0 +1,170 @@
+body{
+    color: #999;
+    background: #2b6e8d;
+    font-family: 'times-roman', sans-serif;
+}
+.form-control{
+    min-height: 41px;
+    box-shadow: none;
+    border-color: #e1e1e1;
+}
+.form-control:focus{
+    border-color: #00cb82;
+}	
+.form-control, .btn{        
+    border-radius: 3px;
+}
+.form-header{
+    margin: -30px -30px 20px;
+    padding: 30px 30px 10px;
+    text-align: justify;
+    text-decoration-line: underline;
+    background: #07b5fa;
+    border-bottom: 1px solid #eee;
+    color: #fff;
+}
+.form-header h2{
+    font-size: 40px;
+    font-weight: bold;
+    
+    
+
+}
+.form-header p{
+    margin: 20px 0 15px;
+    font-size: 17px;
+    line-height: normal;
+    font-family: 'Courgette', sans-serif;
+}
+.signup-form{
+    width: 390px;
+    margin: 0 auto;	
+    padding: 30px 0;	
+}
+.signup-form form{
+    color: #999;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    background: #f0f0f0;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+.signup-form .form-group{
+    margin-bottom: 20px;
+}		
+.signup-form label{
+    font-weight: normal;
+    font-size: 13px;
+}
+.signup-form input[type="checkbox"]{
+    margin-top: 2px;
+}
+.signup-form .btn{        
+    font-size: 16px;
+    font-weight: bold;
+    background: #00cb82;
+    border: none;
+    min-width: 200px;
+}
+.signup-form .btn:hover, .signup-form .btn:focus{
+    background: #00b073 !important;
+    outline: none;
+}
+.signup-form a{
+    color: #00cb82;		
+}
+.signup-form a:hover{
+    text-decoration: underline;
+}
+.f
+{
+    position: relative;
+    left:240px;
+    top:40px;
+    font-size: 20px;
+
+}
+
+.f:active{
+    color:dodgerblue;
+}
+.fac_b{
+    position: relative;
+    left:205px;
+    top:40px;
+    font-size: 21px;
+ color:green;
+
+}
+.fac_a{
+    position: relative;
+    left:226px;
+    top:40px;
+    font-size: 21px;
+    color:rgb(156, 0, 0);
+
+}
+.sec_a{
+    position: relative;
+    left:200px;
+    top:40px;
+    font-size: 21px;
+ color:green;
+
+}
+.sec_b{
+    position: relative;
+    left:180px;
+    top:40px;
+    font-size: 28px;
+    color:rgb(156, 0, 0);
+
+}
+.pass_b{
+    position: relative;
+    left:177px;
+    top:40px;
+    font-size: 21px;
+ color:green;
+
+}
+.pass_a{
+    position: relative;
+    left:260px;
+    top:40px;
+    font-size: 60px;
+    color:rgb(156, 0, 0);
+
+}
+.mo_b{
+    position: relative;
+    left:196px;
+    top:40px;
+    font-size: 21px;
+ color:green;
+
+}
+.mo_a{
+    position: relative;
+    left:217px;
+    top:40px;
+    font-size: 21px;
+    color:rgb(156, 0, 0);
+
+}
+.emai_b{
+    position: relative;
+    left:201px;
+    top:40px;
+    font-size: 21px;
+ color:green;
+
+}
+.emai_a{
+    position: relative;
+    left:223px;
+    top:40px;
+    font-size: 21px;
+    color:rgb(156, 0, 0);
+
+}
