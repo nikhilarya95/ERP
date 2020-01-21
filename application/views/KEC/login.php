@@ -18,7 +18,7 @@
 </head>
 <body>
 
-<?php echo form_open('admin/login','id="form"');?>
+<?php echo form_open('Admin/login','id="form"');?>
   <fieldset>
  <div class="form-group">
       <?php if($error=$this->session->flashdata('Login_failed')): ?>
